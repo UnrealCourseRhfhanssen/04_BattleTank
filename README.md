@@ -6,3 +6,4 @@ An open-world head-to-hand tank fight with simple AI, terrain, and advanced cont
 ## Lectures
 
 * Lecture 97 - Setting up a GitHub repo
+* Lecture 98 - Landscape
